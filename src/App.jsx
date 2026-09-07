@@ -57,7 +57,7 @@ const WEEKLY_MENU = [
   { day: 'Friday', meal: 'Veggie Delight Box', emoji: '🥗' },
 ]
 
-const WHATSAPP_NUMBER = '919XXXXXXXXX' // Replace with your number
+const WHATSAPP_NUMBER = '917483555387' // Replace with your number
 
 function NavBar() {
   return (
